@@ -1,0 +1,8 @@
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/bin/Debug/Newtonsoft.Json.dll
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/bin/Debug/ConsoleApp.exe.mdb
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/bin/Debug/ConsoleApp.exe
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/obj/x86/Debug/ConsoleApp.exe
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/obj/x86/Debug/ConsoleApp.exe.mdb
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/bin/Debug/MongoDB.Bson.dll
+/Users/jameskind/Development/GitHub/Spotify/festival-playlist-generator/ConsoleApp/bin/Debug/MongoDB.Driver.dll
